@@ -1,0 +1,2 @@
+# StrategyPattern
+> dotnet build
